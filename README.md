@@ -1,1 +1,1 @@
-This ReadMe is not empty
+Alx is an exceptional training school.
